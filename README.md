@@ -1,4 +1,3 @@
-![](https://media3.giphy.com/media/6heBQSjt2IoA8/giphy.gif?cid=ecf05e476br98bxoo638zxlasifp30808y7idcjc1f9ntvzb&rid=giphy.gif&ct=g)
 <div align="left">
   <h1 style="background-color: royalblue;border-radius: 10px;">Hi there, I'm Hellyus7! 👋</h1>
 
