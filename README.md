@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #101010;">
+<div align="center">
   <h1>Hi there, I'm Hellyus7! 👋</h1>
 
   <p>I'm a Brazilian technology enthusiast with a passion for coding. My areas of expertise include HTML5, CSS3, Python, JavaScript, C/C++, Assembly, and Flutter. I am constantly striving to improve my skills and learn new technologies to enhance my coding abilities.</p>
@@ -31,7 +31,7 @@
 
   <h2>GitHub Stats</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyus7&layout=compact&theme=react&langs_count=10" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyus7&layout=compact&theme=react&langs_count=10" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hellyus7&show_icons=true&theme=react&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hellyus7&show_icons=true&theme=react&count_private=true" />
 </div>
