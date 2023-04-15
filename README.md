@@ -1,5 +1,6 @@
-![](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
+
 <div align="center">
+  ![](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
   <h1 style="background-color: royalblue;border-radius: 10px;">Hi there, I'm Hellyus7! 👋</h1>
 
   <p style="background-color: #101010;border-radius: 10px;">I'm a Brazilian technology enthusiast with a passion for coding. My areas of expertise include HTML5, CSS3, Python, JavaScript, C/C++, Assembly, and Flutter. I am constantly striving to improve my skills and learn new technologies to enhance my coding abilities.</p>
