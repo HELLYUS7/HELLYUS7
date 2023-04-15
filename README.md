@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: #101010;">
   <h1>Hi there, I'm Hellyus7! 👋</h1>
 
   <p>I'm a Brazilian technology enthusiast with a passion for coding. My areas of expertise include HTML5, CSS3, Python, JavaScript, C/C++, Assembly, and Flutter. I am constantly striving to improve my skills and learn new technologies to enhance my coding abilities.</p>
