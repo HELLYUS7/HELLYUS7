@@ -1,21 +1,37 @@
-### Olá sou *HELLYUS7*!
+<div align="center">
+  <h1>Hi there, I'm Hellyus7! 👋</h1>
 
-![Computer](https://user-images.githubusercontent.com/119828935/205782291-e87e2acc-df85-4355-9194-1cb049d07f2e.gif)
+  <p>I'm a Brazilian technology enthusiast with a passion for coding. My areas of expertise include HTML5, CSS3, Python, JavaScript, C/C++, Assembly, and Flutter. I am constantly striving to improve my skills and learn new technologies to enhance my coding abilities.</p>
 
-## Quem eu sou?
+  <h2>About me</h2>
 
-Sou um desenvolvedor de software brasileiro, me considero como um amante da computção, tenho conhecimento em:
+  <p>I started coding when I was 13 years old, and since then, I have dedicated myself to exploring the depths of the programming world. My passion for coding and my determination to keep improving have allowed me to achieve proficiency in a wide range of programming languages, frameworks, and tools.</p>
+
+  <p>As a developer, I believe in the power of clean and well-structured code, and I always aim to deliver high-quality projects that meet my clients' needs. I am a quick learner and an excellent problem solver, and I am always eager to take on new challenges.</p>
+
+  <h2>Technologies I work with</h2>
+
+  <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Python</li>
+    <li>JavaScript</li>
+    <li>C/C++</li>
+    <li>Assembly</li>
+    <li>Flutter</li>
+  </ul>
+
+  <h2>My projects</h2>
+
+  <p>I have worked on several exciting projects, including web development projects, game development, and mobile app development. You can find some of my most notable projects on my GitHub profile.</p>
+
+  <h2>Contact me</h2>
+
+  <p>If you're interested in working with me, feel free to reach out to me via email or LinkedIn. I am always open to new opportunities and collaborations.</p>
+
+  <h2>GitHub Stats</h2>
   
-- [**Python**](https://pt.wikipedia.org/wiki/Python)
-- [**C/C++**](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)#:~:text=C%20%C3%A9%20uma%20linguagem%20de,(originalmente%20escrito%20em%20Assembly).)
-- [**HTML5**](https://pt.wikipedia.org/wiki/HTML5)
-- [**CSS3**](https://pt.wikipedia.org/wiki/CSS3)
-- [**JavaScript**](https://pt.wikipedia.org/wiki/JavaScript)
-- [**Assembly x86**](https://en.wikipedia.org/wiki/X86_assembly_language)
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyus7&layout=compact&theme=react&langs_count=10" />
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HELLYUS7&layout=compact&show_icons=true&title_color=ffffff&theme=transparent&text_color=ffffff&bg_color=000000)](https://github.com/HELLYUS7/github-readme-stats)
-  
-## Redes Sociais:
-
-- [**GitHub**](https://github.com/HELLYUS7)
+  <img src="https://github-readme-stats.vercel.app/api?username=hellyus7&show_icons=true&theme=react&count_private=true" />
+</div>
