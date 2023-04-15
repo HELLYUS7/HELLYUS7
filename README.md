@@ -31,7 +31,7 @@
 
   <h2>GitHub Stats</h2>
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyus7&layout=compact&theme=react&langs_count=10" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyus7&layout=compact&theme=dark&langs_count=10" />
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hellyus7&show_icons=true&theme=react&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hellyus7&show_icons=true&theme=dark&count_private=true" />
 </div>
