@@ -1,4 +1,4 @@
-![](Hellyus7 (1).gif)
+![](/Hellyus7 (1).gif)
 <div align="left">
   <h1 style="background-color: royalblue;border-radius: 10px;">Hi there, I'm Hellyus7! 👋</h1>
 
