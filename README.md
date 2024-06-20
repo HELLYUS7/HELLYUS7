@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/HELLYUS7/HELLYUS7/main/Hellyus7.gif)
+![](https://raw.githubusercontent.com/HELLYUS7/HELLYUS7/main/banner.gif)
 <div align="left">
   <h1 style="background-color: royalblue;border-radius: 10px;">Hi there, I'm Hellyus7! 👋</h1>
 
